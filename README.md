@@ -1,0 +1,1 @@
+Adding Magellanic Stream coordinates to astropy.
